@@ -84,7 +84,7 @@ VERSION 5.0.1
   [![Click Here](https://img.shields.io/badge/➤Click-Here-neon.svg)](https://charleske-surpot.vercel.app/)
 
 
-## 👨‍💻 Developer Support🇰🇪
+## 👨‍💻 Developer Support🇬🇭
 
 - 🤔 Need help? ➤[Open an Issue](https://github.com/Charleskenya1/Charleske-xmd/issues)
 - 📩 WhatsApp Dev Chat: [Chat Charleske Tech](https://wa.me/+254759626063?text=Hello+Charleske+Tech,+I+need+assistance+with+Charleske+xmd+Bot)
